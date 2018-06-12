@@ -6,3 +6,6 @@ Go语言实现简易公链
 针对BlockChainDemo需要复制到Gopath里面，修改头文件的引入，才能正常运行。
 
 
+
+
+
